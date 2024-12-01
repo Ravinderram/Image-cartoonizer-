@@ -1,5 +1,8 @@
 # Image Cartoonizer
-This repository contains a Python-based implementation of an Image Cartoonizer, which transforms input images into cartoon-like representations using OpenCV.
+This repository contains a Python-based implementation of an Image Cartoonizer, which transforms input images into cartoon-like representations using OpenCV.<br />
+![cartoon-before-after](https://github.com/user-attachments/assets/340f1cb7-92c4-4afe-ba39-7e0620dac0ac)
+
+The image is sourced from [Image to Cartoon](https://imagetocartoon.com/), a platform for converting images to cartoon-style illustrations.
 
 ## Features
 - Converts images into cartoon-like appearances.
